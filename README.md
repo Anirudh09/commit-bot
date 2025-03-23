@@ -1,6 +1,6 @@
 # GitHub Commit Bot
 
-NOTE: Forked from [@theshteves](https://github.com/theshteves) but added as a standalone repo, I made my own powershell script (random.ps1 instead of using bot.sln) to automate it as part of my scheduler and make git commit and push easier.
+NOTE: This repo is forked from [@theshteves](https://github.com/theshteves) but I added it as a standalone repo, I made my own powershell script (random.ps1 instead of using bot.sln) to automate it as part of my task scheduler in Windows 11 and make git commit and push easier.
 
 Generate Organic™ GitHub activity
 <br>_My most insidious idea yet_
