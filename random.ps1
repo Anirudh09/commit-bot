@@ -1,6 +1,6 @@
 #Set this in the task scheduler for Windows
 
-# Set a random number between 1 and 365 (for the days of the year)
+# Set a random number by setting a range (here we choose from 0 and 2 inclusive)
 $randomNumber = Get-Random -Minimum 0 -Maximum 2
 
 Write-Host "The random number is: $randomNumber"
